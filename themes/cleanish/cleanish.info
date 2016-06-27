@@ -1,0 +1,13 @@
+name = Cleanish Theme
+description = Cleanish Theme Backdrop theme.
+backdrop = 1.x
+type = theme
+stylesheets[all][] = style.css
+
+version = 1.x-1.0.0
+
+
+; Added by Backdrop CMS packaging script on 2015-11-22
+project = cleanish
+version = 1.x-2.0.2
+timestamp = 1448236722

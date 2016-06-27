@@ -1,0 +1,16 @@
+[CodeFilterUITestCase]
+name = Code Filter
+description = Ensure code wrapped in php or code tags renders as expected.
+group = Code Filter
+file = codefilter.test
+
+[CodeFilterUnitTestCase]
+name = Codefilter module text filters
+description = Tests raw filtering functions.
+group = Code Filter
+file = codefilter.test
+
+; Added by Backdrop CMS packaging script on 2015-09-27
+project = codefilter
+version = 1.x-1.1.0
+timestamp = 1443410873
